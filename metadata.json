@@ -1,0 +1,5 @@
+{
+  "name": "Global Shorts Factory MVP",
+  "description": "An AI-powered service that analyzes trending YouTube videos and automatically creates Shorts. This MVP allows users to select a trending video, watch a simulated analysis process, and view the generated Short.",
+  "requestFramePermissions": []
+}
